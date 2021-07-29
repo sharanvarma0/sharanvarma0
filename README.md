@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharan Varma
 - 👀 I’m interested in programming, systems engineering and software architecture. 
-- 🌱 I’m currently learning python, javascript, react.js, django, kubernetes, docker.
+- 🌱 I’m currently learning python, java, javascript, react.js, django, kubernetes, docker.
 - 💞️ I’m looking to collaborate on any project that fits my skillset. I am particularly interested in the areas of cybersecurity, cryptography or distributed systems.
 - Reach me at following.
     gmail: sharanvarma0@gmail.com
